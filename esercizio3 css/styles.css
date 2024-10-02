@@ -1,0 +1,26 @@
+main {
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+h2 {
+  border-top: solid;
+  background-color: #ffebcda8;
+  border-top-color: #efcd9ae0;
+}
+h3 {
+  margin: 30px;
+}
+header {
+  text-align: center;
+}
+.contenuto {
+  text-align: left;
+}
+.immagine {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
